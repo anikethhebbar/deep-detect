@@ -13,7 +13,7 @@ This repository contains a deepfake detection system that utilizes a deep learni
 ## Folder Structure
 
 The file structure for this project is as follows:
-
+``` bash
 ├── dataset/
 │ ├── fake/
 │ │ ├── fake_image_1.png
@@ -36,3 +36,4 @@ The file structure for this project is as follows:
 │ ├── video2.mp4
 │ └── ...
 └── requirements(installed alongside ipynb)
+```
