@@ -9,7 +9,8 @@ This repository contains a deepfake detection system that utilizes a deep learni
 - Evaluating the model's performance through accuracy and loss metrics
 - Applying the trained model to detect deepfakes in videos
 - Classifying videos as REAL, FAKE, or POSSIBLY FAKE based on the detection results.
-
+## Dataset
+https://www.kaggle.com/competitions/deepfake-detection-challenge/data
 ## Folder Structure
 
 The file structure for this project is as follows:
